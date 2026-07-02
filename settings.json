@@ -8,7 +8,7 @@
   "server": {
     "ip": "mycraftsurvival.mcsh.io",
     "port": 11476,
-    "version": "26.1.2"
+    "version": 775
   },
   "position": {
     "enabled": true,
